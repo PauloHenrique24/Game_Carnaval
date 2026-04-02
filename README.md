@@ -1,2 +1,2 @@
-# Game_Carnaval
-Jogo feito para o carnaval de 2025
+# Circle-of-Time
+Jogo feito para uma game jam com o tema loop temporal
