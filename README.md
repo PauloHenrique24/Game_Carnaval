@@ -1,2 +1,4 @@
-# Circle-of-Time
-Jogo feito para uma game jam com o tema loop temporal
+# Carnaval Game
+Jogo feito para o carnaval de 2025
+
+**Uso público**
